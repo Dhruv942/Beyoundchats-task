@@ -6,7 +6,7 @@ This is my submission for the Beyond assignment, built using **ReactJS** with a 
 
 ## 🚀 Live Site
 
-🔗 [https://your-deployed-site-url.vercel.app](https://your-deployed-site-url.vercel.app)
+🔗 [https://your-deployed-site-url.vercel.app](https://beyoundchats-task.vercel.app/)
 
 ---
 
