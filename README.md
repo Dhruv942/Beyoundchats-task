@@ -33,6 +33,6 @@ This is my submission for the Beyond assignment, built using **ReactJS** with a 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/beyond-assignment.git
+   git clone https://github.com/Dhruv942/Beyoundchats-task
    cd beyond-assignment
 ﻿# Beyoundchats-task
